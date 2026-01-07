@@ -1,5 +1,5 @@
 # Francesco Cannone
-Ph.D. Candidate | Department of Economics | University Name
+DPhil (PhD) Candidate | Department of Economics | University of Oxford
 | [Website](https://www.economics.ox.ac.uk/people/francesco-cannone) | [Email](mailto:francesco.cannone@economics.ox.ac.uk)
 
 ## Hello!
